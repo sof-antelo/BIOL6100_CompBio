@@ -5,3 +5,14 @@ title: "Comp Bio Lab 2"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+----
+
+This is homework 1 and will have some kind of rescript. 
+
+```{r}
+x<-c(1,2,3,4)
+
+y<-c(3,4,5)
+
+print(x)

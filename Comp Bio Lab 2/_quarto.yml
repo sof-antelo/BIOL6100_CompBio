@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: Comp Bio Lab 2
 
-website:
-  title: "Comp Bio Lab 2"
+website: 
+  title: "Comp Bio Webpage Spring 2026"
   navbar:
     left:
       - href: index.qmd
