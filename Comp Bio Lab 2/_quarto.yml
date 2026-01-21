@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: Comp Bio Lab 2
+  output-dir: docs
 
 website: 
   title: "Comp Bio Webpage Spring 2026"
