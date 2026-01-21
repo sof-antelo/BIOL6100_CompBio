@@ -1,5 +1,6 @@
 ---
 title: "Comp Bio Lab 2"
+format: html
 ---
 
 This is a Quarto website.
